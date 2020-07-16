@@ -12,7 +12,7 @@
    \newcommand{\R}{\mathbb{R}}  
    \newcommand{\angstrom}{\mathrm{\AA}}  
    \newcommand{\deuterium}{\mathrm{D_2O}}  
-   \newcommand{\scinot}[2]{{#1}\times10^{#2}}  
+   \newcommand{\scinot}[2]{ {#1} \times 10^{#2} }  
    ```
 
 ## Python:
