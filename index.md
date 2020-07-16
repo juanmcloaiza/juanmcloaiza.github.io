@@ -8,10 +8,12 @@
 
  - <a href="http://example.com/" target="_blank">Open link in new tab</a>
  - For adding new commands to a latex document, before `\begin{document}`, write, e.g.:  
-   `\newcommand{\R}{\mathbb{R}}`  
-   `\newcommand{\angstrom}{\mathrm{\AA}}`  
-   `\newcommand{\deuterium}{\mathrm{D_2O}}`  
-   `\newcommand{\scinot}[2]{{#1}\times10^{#2}}`  
+   ```latex
+   \newcommand{\R}{\mathbb{R}}  
+   \newcommand{\angstrom}{\mathrm{\AA}}  
+   \newcommand{\deuterium}{\mathrm{D_2O}}  
+   \newcommand{\scinot}[2]{{#1}\times10^{#2}}  
+   ```
 
 ## Python:
 
