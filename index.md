@@ -55,6 +55,7 @@
 
  - [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 
+ - [Repo with a gazillion of NLP related notebooks](https://notebooks.quantumstat.com/)
 
 ---
 [Repo for this website](https://github.com/juanmcloaiza/juanmcloaiza.github.io)
