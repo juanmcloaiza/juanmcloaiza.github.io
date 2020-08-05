@@ -26,6 +26,9 @@
  - [Creating Synthwave with Matplotlib](https://towardsdatascience.com/creating-synthwave-with-matplotlib-ea7c9be59760)
 
  - [Natsort - Simple yet flexible natural sorting in Python](https://pypi.org/project/natsort/)
+  
+ - [Useful for configuring server jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html): \$ jupyter notebook --generate-config
+
 
 ## Qt:
 
