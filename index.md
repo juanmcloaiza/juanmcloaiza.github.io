@@ -34,6 +34,8 @@
  
  ## PyPi:
  
+ - [Learn by own experience](https://github.com/juanmcloaiza/GisansExplorer/tree/develop)
+ 
  - [Building a pip package (a)](https://dzone.com/articles/executable-package-pip-install)
  
  - [Building a pip package (b)](https://packaging.python.org/tutorials/packaging-projects/)
