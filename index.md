@@ -28,6 +28,19 @@
  - [Natsort - Simple yet flexible natural sorting in Python](https://pypi.org/project/natsort/)
   
  - [Useful for configuring server jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html): \$ jupyter notebook --generate-config
+ 
+ - [Use different python versions with virtualenv](https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv)
+ 
+ 
+ ## PyPi:
+ 
+ - [Building a pip package (a)](https://dzone.com/articles/executable-package-pip-install)
+ 
+ - [Building a pip package (b)](https://packaging.python.org/tutorials/packaging-projects/)
+ 
+ - [Defining the entry point](https://setuptools.readthedocs.io/en/latest/userguide/entry_point.html)
+ 
+ - [Install data files](https://stackoverflow.com/questions/11235820/setup-py-not-installing-data-files)
 
 
 ## Qt:
@@ -40,6 +53,9 @@
 ## PyQt:
 
  - [PyQt Layout with frames](https://stackoverflow.com/questions/41483034/pyqt5-layout-with-frames)
+ 
+ - [About Python project structure](https://stackoverflow.com/questions/22177976/generally-speaking-how-are-python-projects-structured)
+
 
 ## Machine Learning and Neural Networks:
 
