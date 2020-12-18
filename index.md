@@ -41,6 +41,8 @@
  - [Defining the entry point](https://setuptools.readthedocs.io/en/latest/userguide/entry_point.html)
  
  - [Install data files](https://stackoverflow.com/questions/11235820/setup-py-not-installing-data-files)
+ 
+ - [Distributing python modules (Official python docs)](https://docs.python.org/3.6/distributing/index.html)
 
 
 ## Qt:
