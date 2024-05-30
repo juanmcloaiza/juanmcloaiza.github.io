@@ -80,5 +80,9 @@
 
  - [Repo with a gazillion of NLP related notebooks](https://notebooks.quantumstat.com/)
 
+## VIM:
+
+  - [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+
 ---
 [Repo for this website](https://github.com/juanmcloaiza/juanmcloaiza.github.io)
